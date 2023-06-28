@@ -1,3 +1,6 @@
+# GitHub Page link:
+https://saanleu.github.io/belly-button-challenge/
+
 # belly-button-challenge
 Complete the following steps:
 
